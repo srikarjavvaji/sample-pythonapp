@@ -1,0 +1,13 @@
+dash
+pandas
+numpy
+openpyxl
+pyodbc
+ConfigParser
+dash-table-experiments
+pybase64
+dash_bootstrap_components
+psycopg2
+pyodbc
+playsound
+PyGObject
